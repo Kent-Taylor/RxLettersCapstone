@@ -1,2 +1,0 @@
-# RxLettersCapstone
-Created with CodeSandbox
